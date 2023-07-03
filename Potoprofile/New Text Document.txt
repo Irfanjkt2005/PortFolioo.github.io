@@ -1,0 +1,6 @@
+data aos
+animate.css
+bootstrap 5
+unflash
+get waves
+shorcut ls
